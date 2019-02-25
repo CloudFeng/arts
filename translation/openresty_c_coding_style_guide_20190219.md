@@ -56,12 +56,10 @@ NGINX中使用空格作为缩进，而不是使用制表符。通常我们使用
 
 ## 函数声明
 
-C function declarations (not definitions!) used in header files or at the beginning of .c files should put everything in a single line if possible. Below is an example from the NGINX core:
 将头文件或者`.c`文件头部的C函数声明（不是定义！）尽量放在一行。下面是来自NGINX中的示例：
 
 `ngx_int_t ngx_http_send_special(ngx_http_request_t *r, ngx_uint_t flags);`
 
-If the line is too long, exceeding 80 columns, then we should split the declaration into more lines, with a 4-space indentation. For example,
 若一行太长，超过了80个字符，可以使用4个空格符将其分隔多行。比如：
 
 ```C
@@ -244,7 +242,6 @@ extern ngx_module_t  ngx_http_module;
 
 在全局变量声明后面使用2行空行分隔静态函数声明。
 
-Successive C function declarations do not use 2 blank lines to separate each other, as in
 多个C函数声明不比适用两行空行彼此分隔，如下所示：
 
 ```C
