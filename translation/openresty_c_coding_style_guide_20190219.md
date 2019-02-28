@@ -1,3 +1,5 @@
+<link href="markdown.css" rel="stylesheet"></link>
+
 # OpenResty C 编码风格指南
 
 OpenResty在C语言模块遵守NGINX的编码风格，比如OpenResty本身的NGINX插件模块或者OpenResty的Lua库中C部分。然而，即便是NGINX自身的C语言核心代码风格并没有与基础代码保持一致。所以，本文拟定一份指南性的文档以便消除各种歧义。
