@@ -18,7 +18,7 @@ ARTS 是[左耳朵耗子](https://github.com/haoel)发起的一个活动，具�
 24. [ARTS之旅（24期）](arts-2018-12-16.md)
 25. ARTS之旅（25期）
     - Algorithm：TODO
-    - Review：[RDD开发](share/readme_driven_development_20190228)
+    - Review：[RDD开发](share/readme_driven_development_20190228.md)
     - Tip：TODO
     - Share：TODO； 
 
