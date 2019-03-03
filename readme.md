@@ -1,6 +1,6 @@
 <link href="markdown.css" rel="stylesheet"></link>
 
-## ARTS项目说明
+# ARTS项目说明
 
 ARTS 是[左耳朵耗子](https://github.com/haoel)发起的一个活动，具体如下：
 
@@ -17,14 +17,15 @@ ARTS 是[左耳朵耗子](https://github.com/haoel)发起的一个活动，具�
 23. [ARTS之旅（23期）](arts-2018-12-07.md)
 24. [ARTS之旅（24期）](arts-2018-12-16.md)
 25. ARTS之旅（25期）
-    - Algorithm：TODO
-    - Review：[RDD开发](share/readme_driven_development_20190228.md)
-    - Tip：TODO
+    - Algorithm：[First Unique Character in a String](alg/hashtable/387_FirstUnique_Character_in_a_String.md)
+    - Review：[RDD开发](review/readme_driven_development_20190228.md)
+    - Tip：[Effective go 之 一个web服务](translation/effective_go/a_web_server.md)
     - Share：TODO； 
 
 ## [翻译](translation)
 
 - [OpenResty C 编码风格指南](translation/openresty_c_coding_style_guide_20190219.md)
+- [Effective GO 中文版](translation/effective_go/readme.md)
 
 ## [反思](introspection)
 

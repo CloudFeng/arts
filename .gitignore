@@ -1,5 +1,4 @@
 .vscode
-translation/effetive_go/
-alg/
+.gitignore
 openresty/
 other/
