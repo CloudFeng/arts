@@ -20,7 +20,7 @@ ARTS 是[左耳朵耗子](https://github.com/haoel)发起的一个活动，具�
     - Algorithm：[First Unique Character in a String](alg/hashtable/387_FirstUnique_Character_in_a_String.md)
     - Review：[RDD开发](review/readme_driven_development_20190228.md)
     - Tip：[Effective go 之 一个web服务](translation/effective_go/a_web_server.md)
-    - Share：TODO； 
+    - Share：[当你没有动力的时候如何坚持下去？](share/why_cannot_consistence_20190303.md) 
 
 ## [翻译](translation)
 
