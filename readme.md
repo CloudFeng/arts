@@ -13,14 +13,32 @@ ARTS 是[左耳朵耗子](https://github.com/haoel)发起的一个活动，具�
 
 ## ARTS 期数
 
-22. [ARTS之旅（22期）](arts-2018-12-03.md)
-23. [ARTS之旅（23期）](arts-2018-12-07.md)
-24. [ARTS之旅（24期）](arts-2018-12-16.md)
-25. ARTS之旅（25期）
+  今天将ARTS整理出来，只要**缺少**其中任何一个都不要放入此列表中，并将**未写完的删除之**。目前统计如下：
+
+1. [ARTS之旅（1期）](https://cloudfeng.github.io/2018/06/23/arts/6m3w-summary/)
+2. [ARTS之旅（2期）](https://cloudfeng.github.io/2018/06/29/arts/6m4w-summary/)
+3. [ARTS之旅（3期）](https://cloudfeng.github.io/2018/07/07/arts/7m1w-summary/)
+4. [ARTS之旅（4期）](https://cloudfeng.github.io/2018/07/07/arts/7m1w-summary/)
+5. [ARTS之旅（5期）](https://cloudfeng.github.io/2018/07/15/arts/7m2w-summary/)
+6. [ARTS之旅（6期）](https://cloudfeng.github.io/2018/07/22/arts/7m3w-summary/)
+7. [ARTS之旅（7期）](https://cloudfeng.github.io/2018/07/29/arts/7m4w-summary/)
+8. [ARTS之旅（8期）](https://cloudfeng.github.io/2018/08/05/arts/8m1w-summary/)
+9. [ARTS之旅（9期）](https://cloudfeng.github.io/2018/08/05/arts/8m1w-summary/)
+10. [ARTS之旅（10期）](https://cloudfeng.github.io/2018/10/07/arts/10m1w-summary/)
+11. [ARTS之旅（11期）](https://cloudfeng.github.io/2018/10/12/arts/10m2w-summary/)
+12. [ARTS之旅（12期）](arts-2018-12-03.md)
+13. [ARTS之旅（13期）](arts-2018-12-07.md)
+14. [ARTS之旅（14期）](arts-2018-12-16.md)
+15. ARTS之旅（15期）
     - Algorithm：[First Unique Character in a String](alg/hashtable/387_FirstUnique_Character_in_a_String.md)
     - Review：[RDD开发](review/readme_driven_development_20190228.md)
     - Tip：[Effective go 之 一个web服务](translation/effective_go/a_web_server.md)
     - Share：[当你没有动力的时候如何坚持下去？](share/why_cannot_consistence_20190303.md) 
+
+写于 2019.3.7 @ 深圳
+更新时间记录：2019.3.7
+
+------------------------------------------
 
 ## [翻译](translation)
 
