@@ -1,8 +1,6 @@
-# ARTS之HashTable系列（一）
+# 387. First Unique Character in a String
 
-## 387. First Unique Character in a String
-
-### 问题描述
+## 问题描述
 
 Given a string, find the first non-repeating character in it and return it's index. If it doesn't exist, return -1.
 
@@ -73,5 +71,10 @@ You may assume the string contain only lowercase letters.
 		return -1;
 	}
     ```
+
+## 算法分析
+
+两个方法的时间复杂度都是 `O(n)`，其中`n`为字符串长度；方法1使用内置的hashmap，而方法2直接使用
+字符的特征申请空间，在时间复杂度来看，方法1的要比方法2更为耗费。
 
 ---------

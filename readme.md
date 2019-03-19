@@ -34,9 +34,20 @@ ARTS 是[左耳朵耗子](https://github.com/haoel)发起的一个活动，具�
     - Review：[RDD开发](review/readme_driven_development_20190228.md)
     - Tip：[Effective go 之 一个web服务](translation/effective_go/a_web_server.md)
     - Share：[当你没有动力的时候如何坚持下去？](share/why_cannot_consistence_20190303.md) 
+16. ARTS之旅（16期）
+  - Algorithm：[Happy Number](alg/hashtable/202_Happy_Number.md)
+  - Review：
+  - Tip:[ZooKeeper入门使用系列（一）](https://cloudfeng.github.io/2019/03/19/zookeeper/zk_starting/)
+  - Share:[网络日志三期](https://cloudfeng.github.io/2019/03/09/networking_reading_note/reading_note_3/)
+17. ARTS之旅（17期）
+  - Algorithm：[Count Primes](alg/hashtable/204_count_primes.md)
+  - Review：
+  - Tip:
+  - Share:[网络日志三期](https://cloudfeng.github.io/2019/03/09/networking_reading_note/reading_note_3/)
+
 
 写于 2019.3.7 @ 深圳
-更新时间记录：2019.3.7
+更新时间记录：2019.3.7，2019.3.9，2019.3.19
 
 ------------------------------------------
 
