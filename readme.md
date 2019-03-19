@@ -13,7 +13,7 @@ ARTS 是[左耳朵耗子](https://github.com/haoel)发起的一个活动，具�
 
 ## ARTS 期数
 
-  今天将ARTS整理出来，只要**缺少**其中任何一个都不要放入此列表中，并将**未写完的删除之**。目前统计如下：
+  今天(2019/03/07)将ARTS整理出来，只要**缺少**其中任何一个都不要放入此列表中，并将**未写完的删除之**。目前统计如下：
 
 1. [ARTS之旅（1期）](https://cloudfeng.github.io/2018/06/23/arts/6m3w-summary/)
 2. [ARTS之旅（2期）](https://cloudfeng.github.io/2018/06/29/arts/6m4w-summary/)
