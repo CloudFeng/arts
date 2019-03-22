@@ -146,6 +146,7 @@ html {
   b,
   strong {
     font-weight: bold;
+    color: red;
   }
   
   dfn {

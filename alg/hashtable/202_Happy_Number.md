@@ -25,7 +25,7 @@ Explanation:    <br>
 
 想到的思路也是比较简单地，主要难点是在处理循环上面：可以借鉴`set`的唯一性做判断。
 
-    ```Java
+```Java
     class Solution {
         private Set<Integer> splitSquareSumSet = new HashSet<Integer>();
         private int splitNumAndSquareSum(int n) {
@@ -58,11 +58,11 @@ Explanation:    <br>
             
         }
     }
-    ```
+```
 
 上面这个方法利用了递归，使用的空间复杂度比较大，若n比较大时，可能会超过最大的栈深度。可以将上面的代码改写为循环处理的方法。
 
-    ```Java
+```Java
     public boolean isHappy(int n) {
         Set<Integer> set = new HashSet<>();
         while(set.add(n)){
@@ -75,5 +75,5 @@ Explanation:    <br>
         }
         return n == 1;
     }
-    ```
+```
 ---------

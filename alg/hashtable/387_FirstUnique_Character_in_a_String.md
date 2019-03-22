@@ -52,7 +52,7 @@ You may assume the string contain only lowercase letters.
 换一种计数方式，都是小写，只有26个字符，那么可以申请一个固定数组，存放每个字符出现的个数。然后遍历取出
 计数数组，若为1则直接返回，否则循环结束，返回-1。
 
-    ```Java
+```Java
     public int firstUniqChar (String s) {
 		if (null == s || s.isEmpty()) {
 			return -1;
@@ -70,7 +70,7 @@ You may assume the string contain only lowercase letters.
 		}
 		return -1;
 	}
-    ```
+```
 
 ## 算法分析
 
