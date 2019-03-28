@@ -47,7 +47,17 @@ ARTS 是[左耳朵耗子](https://github.com/haoel)发起的一个活动，具�
 18. ARTS之旅（18期）
     - Algorithm：
     - Review：TODO
-    - Tip:[使用C3P0实现自定义连接池报`isClosed() is abstract`](tech/mybatis/20190321_c3p0_mybatis_error.md)
+    - Tip:[使用C3P0实现自定义连接池报`isClosed() is abstract](tech/mybatis/20190321_c3p0_mybatis_error.md)
+    - Share:
+19. ARTS之旅（19期）
+    - Algorithm：
+    - Review：TODO
+    - Tip:[linux系统只显示文件目录或文件](tech/linux/only_dir_or_file_cmd.md)
+    - Share:
+20. ARTS之旅（20期）
+    - Algorithm：
+    - Review：TODO
+    - Tip:[Hexo Even主题集成gitment评论系统](tech/hexo/20190328_hexo_even_gitment.md)
     - Share:
 
 
