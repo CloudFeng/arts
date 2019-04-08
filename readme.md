@@ -47,7 +47,7 @@ ARTS 是[左耳朵耗子](https://github.com/haoel)发起的一个活动，具�
 18. ARTS之旅（18期）
     - Algorithm：[数组与字符串系列(1)](alg/array_and_string/1_1.md)
     - Review：TODO
-    - Tip:[使用C3P0实现自定义连接池报`isClosed() is abstract](tech/mybatis/20190321_c3p0_mybatis_error.md)
+    - Tip:[使用C3P0实现自定义连接池报`isClosed()` is abstract](tech/mybatis/20190321_c3p0_mybatis_error.md)
     - Share:
 19. ARTS之旅（19期）
     - Algorithm：[数组与字符串系列(2)](alg/array_and_string/1_2.md)
