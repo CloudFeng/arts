@@ -3,6 +3,7 @@
 ## 目录
 
 1. [前言](1_introduction.md)
+2. [格式化](2_formatting.md)
 
 17. [一个web服务](a_web_server.md)
 

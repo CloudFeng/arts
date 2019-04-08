@@ -45,26 +45,30 @@ ARTS 是[左耳朵耗子](https://github.com/haoel)发起的一个活动，具�
     - Tip:[Go语言移除切片或数组中的重复元素](tech/go/20190307_go_remove_dup_in_slice.md)
     - Share:[网络日志三期](https://cloudfeng.github.io/2019/03/09/networking_reading_note/reading_note_3/)
 18. ARTS之旅（18期）
-    - Algorithm：
+    - Algorithm：[数组与字符串系列(1)](alg/array_and_string/1_1.md)
     - Review：TODO
     - Tip:[使用C3P0实现自定义连接池报`isClosed() is abstract](tech/mybatis/20190321_c3p0_mybatis_error.md)
     - Share:
 19. ARTS之旅（19期）
-    - Algorithm：
+    - Algorithm：[数组与字符串系列(二)](alg/array_and_string/1_2.md)
     - Review：TODO
     - Tip:[linux系统只显示文件目录或文件](tech/linux/only_dir_or_file_cmd.md)
     - Share:
 20. ARTS之旅（20期）
-    - Algorithm：
+    - Algorithm：TODO
     - Review：TODO
     - Tip:[Hexo Even主题集成gitment评论系统](tech/hexo/20190328_hexo_even_gitment.md)
-    - Share:
-
-
-写于 2019.3.7 @ 深圳
-更新时间记录：2019.3.7，2019.3.9，2019.3.19,2019.3.21
+    - Share: TODO
 
 ------------------------------------------
+
+## [设计原则](share/architecture/design_rule)
+
+- [OCP](share/architecture/design_rule/2_ocp.md)
+
+## [设计模式](share/architecture/design_pattern)
+
+[设计模式笔记](share/architecture/design_pattern/readme.md)
 
 ## [翻译](translation)
 
