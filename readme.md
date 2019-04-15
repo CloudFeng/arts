@@ -36,7 +36,7 @@ ARTS 是[左耳朵耗子](https://github.com/haoel)发起的一个活动，具�
     - Share：[当你没有动力的时候如何坚持下去？](share/why_cannot_consistence_20190303.md) 
 16. ARTS之旅（16期）
     - Algorithm：[Happy Number](alg/hashtable/202_Happy_Number.md)
-    - Review：TODO
+    - Review：[作为工程师，我是如何组织知识的](review/how_i_organize_my_knowledge_as_software_engineer_20190414.md)
     - Tip:[ZooKeeper入门使用系列（一）](https://cloudfeng.github.io/2019/03/19/zookeeper/zk_starting/)
     - Share:[网络日志三期](https://cloudfeng.github.io/2019/03/09/networking_reading_note/reading_note_3/)
 17. ARTS之旅（17期）
@@ -55,7 +55,7 @@ ARTS 是[左耳朵耗子](https://github.com/haoel)发起的一个活动，具�
     - Tip:[linux系统只显示文件目录或文件](tech/linux/only_dir_or_file_cmd.md)
     - Share:
 20. ARTS之旅（20期）
-    - Algorithm：TODO
+    - Algorithm：[数组与字符串系列(3)](alg/array_and_string/1_3.md)
     - Review：TODO
     - Tip:[Hexo Even主题集成gitment评论系统](tech/hexo/20190328_hexo_even_gitment.md)
     - Share: TODO
