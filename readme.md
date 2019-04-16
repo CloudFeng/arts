@@ -41,9 +41,9 @@ ARTS 是[左耳朵耗子](https://github.com/haoel)发起的一个活动，具�
     - Share:[网络日志三期](https://cloudfeng.github.io/2019/03/09/networking_reading_note/reading_note_3/)
 17. ARTS之旅（17期）
     - Algorithm：[Count Primes](alg/hashtable/204_count_primes.md)
-    - Review：TODO
+    - Review：[如何记录日志：应用日志最佳实践](review/How_to_Log_a_Log_Application_Logging_Best_Practices_20190416)
     - Tip:[Go语言移除切片或数组中的重复元素](tech/go/20190307_go_remove_dup_in_slice.md)
-    - Share:[网络日志三期](https://cloudfeng.github.io/2019/03/09/networking_reading_note/reading_note_3/)
+    - Share:
 18. ARTS之旅（18期）
     - Algorithm：[数组与字符串系列(1)](alg/array_and_string/1_1.md)
     - Review：TODO
