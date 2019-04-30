@@ -46,12 +46,12 @@ ARTS 是[左耳朵耗子](https://github.com/haoel)发起的一个活动，具�
     - Share:
 18. ARTS之旅（18期）
     - Algorithm：[数组与字符串系列(1)](alg/array_and_string/1_1.md)
-    - Review：TODO
+    - Review：[Go语言为何将类型放在变量之后](review/go_declaration_syntax_20190430.md)
     - Tip:[使用C3P0实现自定义连接池报`isClosed()` is abstract](tech/mybatis/20190321_c3p0_mybatis_error.md)
     - Share:
 19. ARTS之旅（19期）
     - Algorithm：[数组与字符串系列(2)](alg/array_and_string/1_2.md)
-    - Review：TODO
+    - Review：[如何读懂C语言中的复杂声明：顺时针法则](review/The_Clockwise_Spiral_Rule_20190430.md)
     - Tip:[linux系统只显示文件目录或文件](tech/linux/only_dir_or_file_cmd.md)
     - Share:
 20. ARTS之旅（20期）
