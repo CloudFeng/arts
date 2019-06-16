@@ -43,7 +43,7 @@ ARTS 是[左耳朵耗子](https://github.com/haoel)发起的一个活动，具�
     - Algorithm：[Count Primes](alg/hashtable/204_count_primes.md)
     - Review：[如何记录日志：应用日志最佳实践](review/How_to_Log_a_Log_Application_Logging_Best_Practices_20190416)
     - Tip:[Go语言移除切片或数组中的重复元素](tech/go/20190307_go_remove_dup_in_slice.md)
-    - Share:[Go RPC 编程指南笔记(tech/go/goRPC/20190503_go_rpc_guide_note.md)
+    - Share:[Go RPC 编程指南笔记](tech/go/20190503_go_rpc_guide_note.md)
 18. ARTS之旅（18期）
     - Algorithm：[数组与字符串系列(1)](alg/array_and_string/1_1.md)
     - Review：[Go语言为何将类型放在变量之后](review/go_declaration_syntax_20190430.md)
@@ -53,7 +53,7 @@ ARTS 是[左耳朵耗子](https://github.com/haoel)发起的一个活动，具�
     - Algorithm：[数组与字符串系列(2)](alg/array_and_string/1_2.md)
     - Review：[如何读懂C语言中的复杂声明：顺时针法则](review/The_Clockwise_Spiral_Rule_20190430.md)
     - Tip:[linux系统只显示文件目录或文件](tech/linux/only_dir_or_file_cmd.md)
-    - Share:
+    - Share:[如何设计一个秒杀系统笔记](share/architecture/20190616_miaoshao_system_note.md)
 20. ARTS之旅（20期）
     - Algorithm：[数组与字符串系列(3)](alg/array_and_string/1_3.md)
     - Review：TODO
