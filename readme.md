@@ -33,7 +33,7 @@ ARTS 是[左耳朵耗子](https://github.com/haoel)发起的一个活动，具�
     - Algorithm：[First Unique Character in a String](alg/hashtable/387_FirstUnique_Character_in_a_String.md)
     - Review：[RDD开发](review/readme_driven_development_20190228.md)
     - Tip：[Effective go 之 一个web服务](translation/effective_go/a_web_server.md)
-    - Share：[当你没有动力的时候如何坚持下去？](share/why_cannot_consistence_20190303.md) 
+    - Share：[当你没有动力的时候如何坚持下去？](share/other_why_cannot_consistence_20190303.md) 
 16. ARTS之旅（16期）
     - Algorithm：[Happy Number](alg/hashtable/202_Happy_Number.md)
     - Review：[作为工程师，我是如何组织知识的](review/how_i_organize_my_knowledge_as_software_engineer_20190414.md)
@@ -58,13 +58,13 @@ ARTS 是[左耳朵耗子](https://github.com/haoel)发起的一个活动，具�
     - Algorithm：[数组与字符串系列(3)](alg/array_and_string/1_3.md)
     - Review：TODO
     - Tip:[Hexo Even主题集成gitment评论系统](tech/hexo/20190328_hexo_even_gitment.md)
-    - Share: TODO
+    - Share: [下死功夫](share/other_overwork_20200219.md)
 21. ARTS之旅（21期）
     - Algorithm
     - Review
     - Tip/Tech
     今天看了一下 `GodotEnv`工具，它用于实现环境变量的管理，在项目启动的时候直接将环境变量加载到内存，具体见：[Godotenv](tech/go/golang_godotenv_usage_20200214.md)。
-    - Share
+    - Share：
 
 ------------------------------------------
 
