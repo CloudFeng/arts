@@ -118,11 +118,11 @@ func main() {
 
 ### 测试
 
-类型 | 测试命令 | 
----------|----------|---------
- JSON |  `curl -X POST 'http://localhost:8080/loginJSON' -v -d '{"user":"manu", "password":"123"}'` |
- XML | `curl -X POST "http://localhost:8080/loginXML" -v -d '<?xml version="1.0" encoding="UTF-8"?><root><user>manu</user><password>123</password></root>'` |
- form | `curl -X POST "http://localhost:8080/loginForm" -v -d 'user=manu&password=123'`|
+|类型 | 测试命令 | 
+|---------|----------|
+|JSON |  `curl -X POST 'http://localhost:8080/loginJSON' -v -d '{"user":"manu", "password":"123"}'` |
+|XML | `curl -X POST "http://localhost:8080/loginXML" -v -d '<?xml version="1.0" encoding="UTF-8"?><root><user>manu</user><password>123</password></root>'` |
+|form | `curl -X POST "http://localhost:8080/loginForm" -v -d 'user=manu&password=123'`|
   
 
 ## 绑定Url
