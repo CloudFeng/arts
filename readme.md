@@ -65,7 +65,16 @@ ARTS 是[左耳朵耗子](https://github.com/haoel)发起的一个活动，具�
     - Tip/Tech
     今天看了一下 `GodotEnv`工具，它用于实现环境变量的管理，在项目启动的时候直接将环境变量加载到内存，具体见：[Godotenv](tech/go/golang_godotenv_usage_20200214.md)。
     - Share：[架构师的业务思维](share/architecture/arch_busi_think_20200228.md)
-
+22. ARTS之旅（22期）
+    - Algorithm:
+    - Review:
+    - Tip/Tech:(【Golang】Gin 框架之请求参数绑定)[https://cloudfeng.github.io/2020/03/13/2020/03/20200311_go_gin_request_bind_type/]
+    - Share：
+23. ARTS之旅（23期）
+    - Algorithm:
+    - Review:
+    - Tip/Tech:(【Golang】Gin 框架之请求参数多语言验证)[https://cloudfeng.github.io/2020/03/16/2020/03/20200316_gogin_mutil_lan/]
+    - Share：
 ------------------------------------------
 
 ## [设计原则](share/architecture/design_rule)
