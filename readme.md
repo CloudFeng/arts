@@ -75,6 +75,12 @@ ARTS 是[左耳朵耗子](https://github.com/haoel)发起的一个活动，具�
     - Review:
     - Tip/Tech:(【Golang】Gin 框架之请求参数多语言验证)[https://cloudfeng.github.io/2020/03/16/2020/03/20200316_gogin_mutil_lan/]
     - Share：
+24. ARTS之旅（24期）
+    - Algorithm:
+    - Review:
+    - Tip/Tech:(如何写出正确的单例模式)[https://cloudfeng.github.io/2020/02/15/2020/02/20200215_design_pattern_singleton/]
+    - Share：
+
 ------------------------------------------
 
 ## [设计原则](share/architecture/design_rule)
