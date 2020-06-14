@@ -6,7 +6,7 @@
 
 [第一阶段（CPU性能篇）| 第二周（2020.06.01~2020.06.07）](phase_week_note/first_phase_sec_week_cpu.md)
 
-[第一阶段（内存性能篇）| 第三周（2020.06.08~2020.06.14）](phase_week_note/sec_phase_first_week_mem.md)
+[第二阶段（内存性能篇）| 第三周（2020.06.08~2020.06.14）](phase_week_note/sec_phase_first_week_mem.md)
 
 ## 周总结
 
