@@ -19,6 +19,7 @@
 5. [第三阶段|第五周](week_summary/5week_summary.md)
 6. [第三节段|第六周](week_summary/6week_summary.md)
 7. [第四阶段|第七周](week_summary/7week_summary.md)
+8. [第五阶段|第八周](week_summary/8week_summary.md)
 
 ## 文中推荐资料
 
